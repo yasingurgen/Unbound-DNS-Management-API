@@ -1,5 +1,5 @@
 # Unbound-DNS-Management-API
-This project is a Unbound DNS Management API developed using Flask, Gunicorn, and Nginx. It provides a REST API to manage the Unbound DNS server, allowing you to list, add, edit, and delete DNS records.
+This project is a Unbound DNS Management API developed using Flask, Gunicorn, and Nginx. It provides a REST-like API to manage the Unbound DNS server, allowing you to list, add, edit, and delete DNS records.
 
 🚀 **Features**
 - ✅ Manage DNS records: Add, edit, delete, and list records  
