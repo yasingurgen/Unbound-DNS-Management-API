@@ -144,6 +144,10 @@ This project is a Unbound DNS Management API developed using Flask, Gunicorn, an
     | sudo tee /etc/sudoers.d/unbound_api
   ~~~
 
+🔗 **Support**  
+
+[Adem PEKDEMIR](https://github.com/AdemPkdmr)  
+  
 📄 License  
 
  This project is licensed under the MIT License.
