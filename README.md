@@ -108,6 +108,13 @@ This project is a Unbound DNS Management API developed using Flask, Gunicorn, an
   -d "action=EDIT&content_type=data&remove_line=local-data: 'example.com 192.168.1.1'&new_line=local-data: 'example.com 192.168.1.2'"
 ~~~
 
+📌 **Content Type & Allowed Record Types**  
+
+| content_type  | Allowed `record_type` values                             |  
+|---------------|----------------------------------------------------------|  
+| `data`        | `A`, `AAAA`, `TXT`, `SOA`, `CNAME`, `PTR`, `MX`, `NS`    |  
+| `zones`       | `ZONE`                                                   |  
+
 📌 **Record Type & Required Parameters**  
 
 
